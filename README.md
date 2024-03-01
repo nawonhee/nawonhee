@@ -24,11 +24,10 @@
 
 &nbsp;
 
-&nbsp;
 
 <h1>📃 Skill Stack</h1>
 &nbsp;
-[![JAVA Badge](https://img.shields.io/badge/JAVA-white?style=flat-square&logo=Java&logoColor=purple)]
+<img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=java5&logoColor=#0174DF">
 
 </div>
 
