@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:98dnjsgml@gmail.com)](mailto:98dnjsgml@gmail.com)
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)](https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)
-
+[![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=tistory&link=https://wnee.tistory.com/)](https://wnee.tistory.com/)
 
 
