@@ -62,8 +62,8 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <br>
 
-<img src="https://img.shields.io/badge/android studio-34A853?style=for-the-badge&logo=android&logoColor=black">
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/android studio-34A853?style=for-the-badge&logo=android&logoColor=black">
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
 <br>
   
