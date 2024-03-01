@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawonhee)](https://github.com/nawonhee/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:98dnjsgml@gmail.com)](mailto:98dnjsgml@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=github&link=https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)](https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)
+[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)](https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)
 
 
 
