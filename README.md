@@ -1,8 +1,11 @@
 <div align="center">
   # 🙋‍♀️ My Profile
 
-- _상명대학교 컴퓨터과학과 졸업_
-- _한국소프트웨어산업협회(KOSA) MSA 기반 JAVA FULL STACK 개발자 양성과정 수료_
+  _상명대학교 컴퓨터과학과 졸업_
+
+
+  
+  _한국소프트웨어산업협회(KOSA) MSA 기반 JAVA FULL STACK 개발자 양성과정 수료_
 
 
 
