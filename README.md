@@ -18,7 +18,13 @@
 [![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)](https://www.notion.so/be8d0cc492fb4d5bb715ccac178f5afa)
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=tistory&link=https://wnee.tistory.com/)](https://wnee.tistory.com/)
 
-<hr>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <h1>📃 Skill Stack</h1>
 &nbsp;
