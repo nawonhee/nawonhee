@@ -32,7 +32,7 @@
 &nbsp;
 
 
-<h1>📃 Skill Stack</h1>
+<h1>📃 Stack</h1>
 
 &nbsp;
 
