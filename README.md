@@ -19,9 +19,9 @@
 [![Blog](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=tistory&link=https://wnee.tistory.com/)](https://wnee.tistory.com/)
 
 
-<h1>📚 Language</h1>
+<h1>📃 Skill Stack</h1>
 &nbsp;
-[![JAVA Badge](https://img.shields.io/badge/JAVA-white?style=flat-square&logo=java&logoColor=purple)]
+[![JAVA Badge](https://img.shields.io/badge/JAVA-white?style=flat-square&logo=Java&logoColor=purple)]
 
 </div>
 
