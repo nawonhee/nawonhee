@@ -59,6 +59,8 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
 
+&nbsp;
+
 </div>
 
 
