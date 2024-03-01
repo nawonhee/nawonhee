@@ -1,6 +1,6 @@
 # 🙋‍♀️ My Profile
 
-- 상명대학교 졸업
+- 상명대학교 컴퓨터과학과 졸업
 - 한국소프트웨어산업협회(KOSA) MSA 기반 JAVA FULL STACK 개발자 양성과정 수료
 <!--
 **nawonhee/nawonhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
