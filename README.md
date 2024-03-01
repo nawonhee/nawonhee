@@ -1,5 +1,6 @@
 <div align="center">
-  # 🙋‍♀️ My Profile
+  <h1>🙋‍♀️ My Profile</h1>
+  <hr>
 
   _상명대학교 컴퓨터과학과 졸업_
 
